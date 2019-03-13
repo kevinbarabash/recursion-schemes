@@ -1,0 +1,24 @@
+{
+  "name": "recursion-schemes",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.1.0",
+    "purescript-console": "^4.2.0",
+    "purescript-effect": "^2.0.1",
+    "purescript-matryoshka": "^0.4.0",
+    "purescript-fixed-points": "^5.1.0",
+    "purescript-foldable-traversable": "^4.1.1",
+    "purescript-ordered-collections": "^1.6.0",
+    "purescript-globals": "^4.0.0",
+    "purescript-strings": "^4.0.1",
+    "purescript-unicode": "^4.0.1"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+  }
+}
